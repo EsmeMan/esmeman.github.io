@@ -1,0 +1,11 @@
+﻿p {
+	color: red;
+	font-size: 25px;
+	background-color: lightgreen;
+}
+
+img {
+	opacity: 0.3;
+	width: 350px;
+	height: 120px;
+}
